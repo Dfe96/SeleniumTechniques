@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbae7e50-99d0-4cbc-ad61-803b19f626e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DropdownsPractique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DroppableItemsAndFrames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExerciseAssertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MouseInteractions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ProductList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RahulAccademyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WindowNavigate.java" afterDir="false" />
-    </list>
+    <list default="true" id="fbae7e50-99d0-4cbc-ad61-803b19f626e7" name="Changes" comment="sync commit and readme update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,6 +113,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665665445626</updated>
     </task>
+    <task id="LOCAL-00001" summary="sync commit and readme update">
+      <created>1666548230513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666548230513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +133,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sync commit and readme update" />
+    <option name="LAST_COMMIT_MESSAGE" value="sync commit and readme update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
