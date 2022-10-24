@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbae7e50-99d0-4cbc-ad61-803b19f626e7" name="Changes" comment="sync commit and readme update" />
+    <list default="true" id="fbae7e50-99d0-4cbc-ad61-803b19f626e7" name="Changes" comment="sync commit and readme update">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,23 +50,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task5">
-    <configuration name="DroppableItemsAndFrames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DroppableItemsAndFrames" />
+  <component name="RunManager" selected="Application.Task7">
+    <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calendar" />
       <module name="SeleniumTools" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2" />
-      <module name="SeleniumTools" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task3" />
+    <configuration name="DropdownsPractique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DropdownsPractique" />
       <module name="SeleniumTools" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,33 +72,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task5" />
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task6" />
       <module name="SeleniumTools" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task7" />
       <module name="SeleniumTools" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="SeleniumTools" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.DropdownsPractique" />
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Calendar" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.DroppableItemsAndFrames" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666548230513</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sync commit and readme update">
+      <created>1666548295956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666548295956</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,5 +147,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="element" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
