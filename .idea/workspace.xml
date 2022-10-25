@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbae7e50-99d0-4cbc-ad61-803b19f626e7" name="Changes" comment="sync commit and readme update">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Calendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task7.java" afterDir="false" />
+    <list default="true" id="fbae7e50-99d0-4cbc-ad61-803b19f626e7" name="Changes" comment="some new Task Added">
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrokenLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SslCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +50,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task7">
-    <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calendar" />
+  <component name="RunManager" selected="Application.BrokenLinks">
+    <configuration name="BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BrokenLinks" />
       <module name="SeleniumTools" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task4" />
+    <configuration name="SslCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SslCheck" />
       <module name="SeleniumTools" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BrokenLinks" />
+        <item itemvalue="Application.SslCheck" />
         <item itemvalue="Application.Task7" />
         <item itemvalue="Application.DropdownsPractique" />
         <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Calendar" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666548295956</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some new Task Added">
+      <created>1666611065632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666611065632</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,7 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sync commit and readme update" />
-    <option name="LAST_COMMIT_MESSAGE" value="sync commit and readme update" />
+    <MESSAGE value="some new Task Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="some new Task Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
