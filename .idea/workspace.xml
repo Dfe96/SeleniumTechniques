@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbae7e50-99d0-4cbc-ad61-803b19f626e7" name="Changes" comment="some new Task Added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/BrokenLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SslCheck.java" afterDir="false" />
+    <list default="true" id="fbae7e50-99d0-4cbc-ad61-803b19f626e7" name="Changes" comment="BrokenLinks and SSLcheck added">
+      <change afterPath="$PROJECT_DIR$/src/test/java/CapturingHeight_Width.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RelativeLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ScreenShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumUsingStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Stream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WindowNavigate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WindowNavigate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,53 +37,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BrokenLinks">
-    <configuration name="BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BrokenLinks" />
+  <component name="RunManager" selected="Application.CapturingHeight_Width">
+    <configuration name="CapturingHeight_Width" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CapturingHeight_Width" />
       <module name="SeleniumTools" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropdownsPractique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DropdownsPractique" />
+    <configuration name="RelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RelativeLocators" />
       <module name="SeleniumTools" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SslCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SslCheck" />
+    <configuration name="ScreenShots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScreenShots" />
       <module name="SeleniumTools" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task6" />
+    <configuration name="SeleniumUsingStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumUsingStreams" />
       <module name="SeleniumTools" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task7" />
+    <configuration name="WindowNavigate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WindowNavigate" />
       <module name="SeleniumTools" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BrokenLinks" />
-        <item itemvalue="Application.SslCheck" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.DropdownsPractique" />
-        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.CapturingHeight_Width" />
+        <item itemvalue="Application.ScreenShots" />
+        <item itemvalue="Application.WindowNavigate" />
+        <item itemvalue="Application.RelativeLocators" />
+        <item itemvalue="Application.SeleniumUsingStreams" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666611065632</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="BrokenLinks and SSLcheck added">
+      <created>1666684966217</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666684966217</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +153,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sync commit and readme update" />
     <MESSAGE value="some new Task Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="some new Task Added" />
+    <MESSAGE value="BrokenLinks and SSLcheck added" />
+    <option name="LAST_COMMIT_MESSAGE" value="BrokenLinks and SSLcheck added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
